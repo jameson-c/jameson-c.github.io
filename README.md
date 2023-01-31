@@ -2,7 +2,8 @@
 Jameson's website!
 
 Credits:
-  Design:
+
+  	Design:
 		Strata by HTML5 UP
 		html5up.net | @ajlkn
     
