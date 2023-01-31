@@ -1,5 +1,5 @@
 # jameson-c.github.io
-[Jameson's website](jameson-c.github.io)!
+[Jameson's website](https://jameson-c.github.io/)!
 
 Credits:
 
