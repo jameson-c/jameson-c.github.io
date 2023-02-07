@@ -4,8 +4,8 @@
 Credits:
 
   	Design:
-		Strata by HTML5 UP
-		html5up.net | @ajlkn
+		Read-only by HTML5 UP
+		https://pixelarity.com/read-only | @ajlkn
     
 	Images:
 		Unsplash (unsplash.com)
